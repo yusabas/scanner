@@ -1,14 +1,4 @@
 
-# Title: CWE-89 SQL İNJECTİON VULNERABLE SCANNER
-# Risk: High
-# CWE Number : CWE-89
-# Author: Yuşa Baş
-# Date: 13/05/2019
-# Contact: yusa_bas@hotmail.com
-# Tested On: WiN7_x64/KaLiLinuX_x64
-# Arch: x64
-# Author Social: @yusabas
-
 import difflib, httplib, itertools, optparse, random, re, urllib, urllib2, urlparse
 
 NAME, VERSION, AUTHOR, LICENSE = "SQLi Scanner", "0.5", "Yusa Bas (@yusabas)", "Free Trail"
